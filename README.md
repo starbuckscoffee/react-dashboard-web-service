@@ -1,6 +1,16 @@
-# React Dashboard Web Service
+# Dashboard Tutorial 01 - React Dashboard Web Service
 
-A modern, responsive dashboard web application built with React.js featuring sidebar navigation and dynamic content rendering.
+A comprehensive tutorial project demonstrating how to build a modern, responsive dashboard web application using React.js with sidebar navigation and dynamic content rendering.
+
+## 📚 Tutorial Overview
+
+This repository serves as a complete tutorial for building a React dashboard from scratch, covering:
+- Project setup and structure
+- Component architecture and organization  
+- Routing implementation with React Router
+- State management for navigation
+- Responsive CSS styling techniques
+- Best practices for React development
 
 ## 🚀 Features
 
@@ -47,8 +57,8 @@ dashboard-app/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/react-dashboard-web-service.git
-   cd react-dashboard-web-service
+   git clone https://github.com/yourusername/dashboard_tutorial01.git
+   cd dashboard_tutorial01
    ```
 
 2. **Install dependencies:**
