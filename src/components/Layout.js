@@ -10,7 +10,8 @@ const Layout = ({ children }) => {
     { name: 'Dashboard Overview', path: '/home' },
     { name: 'User Registration', path: '/register' },
     { name: 'About System', path: '/about' },
-    { name: 'Version Info', path: '/version' }
+    { name: 'Version Info', path: '/version' },
+    { name: 'Hello World' , path: '/hello'}
   ];
 
   const [activeSidebarPage, setActiveSidebarPage] = useState(
